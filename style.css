@@ -1,0 +1,50 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    color: #00711C;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 20px;
+    background-color: #ffffff;
+    border-radius: 0 0 90% 90%;;
+}
+
+.background {
+    background: #00711C url(asset/bg-image.svg) no-repeat;
+    height: 100vh;
+    background-size: cover;
+    padding: 0;
+    
+}
+
+.content {
+    margin-top: 10vh;
+    text-align: center;
+}
+
+.text-h1 {
+    margin: 20px;
+    color: #ffffff;
+    font-size: larger;
+    line-height: 200%;
+    font-weight: bolder;
+}
+.text-h1 span {
+    font-weight: normal;
+}
+.text-sdt {
+    font-weight:900 !important;
+    font-size: x-large;
+}
+
+.contact {
+    text-align: center;
+    color:#ffffff;
+}
+
+.contact-icon {
+    padding: 30px;
+}
